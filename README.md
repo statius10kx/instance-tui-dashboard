@@ -26,3 +26,4 @@ Build a standalone binary:
 go build -o instance_tui .
 ./instance_tui
 ~~~
+Press Q to quit.
