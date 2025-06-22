@@ -18,7 +18,7 @@ Requires **Go 1.24 +**.
 ~~~bash
 git clone https://github.com/<your-user>/instance-tui.git
 cd instance-tui
-go run .
+go run main.go
 ~~~
 
 Build a standalone binary:
