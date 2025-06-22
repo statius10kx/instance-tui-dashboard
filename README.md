@@ -1,6 +1,6 @@
 # Multi-Instance TUI Dashboard Boilerplate
 
-A lightweight terminal dashboard for spinning up and watching dozens of spam-bot instances at once. Built with Go and Bubble Tea.
+A lightweight terminal dashboard for spinning up and watching dozens of spam-bot instances at once. Built with Go and Bubble Tea. Uses dummy data.
 
 ## Why this exists
 My original Python script handled a few testnet spammers, but scaling to 100 instances was messy. Rewriting the workers plus a tiny TUI in Go keeps everything in one terminal window.
