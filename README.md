@@ -16,7 +16,7 @@ Requires **Go 1.24 +**.
 
 ## Quick start
 ~~~bash
-git clone https://github.com/<your-user>/instance-tui.git
+git clone https://github.com/statius10kx/instance-tui.git
 cd instance-tui
 go run main.go
 ~~~
